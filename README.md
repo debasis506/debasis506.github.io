@@ -1,2 +1,1 @@
-### Portfolio
-Visit my portfolio [here](https://debasis506.github.io).
+##debasis506.github.io
