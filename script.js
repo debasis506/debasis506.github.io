@@ -63,16 +63,17 @@ $(document).ready(function () {
 document.getElementById("resume-button-1").onclick = () => {
     window.open(
         "https://drive.google.com/file/d/1VOOf1p7ezcdcgDFy8cNwHsIf6-fTmg3p/view?usp=sharing",
-        `_blank`
+        '_blank'
     );
 };
 
 document.getElementById("resume-button-2").onclick = () => {
     window.open(
         "https://drive.google.com/file/d/1VOOf1p7ezcdcgDFy8cNwHsIf6-fTmg3p/view?usp=sharing",
-        `_blank`
+        '_blank'
     );
 };
+
 
 GitHubCalendar(".calendar", "dcs1997", {
     responsive: true,
